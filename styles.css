@@ -1,0 +1,9 @@
+#board {
+    display: grid;
+    width: 400px;
+    height: 400px;
+}
+
+.block{
+    background-color: black;
+}
